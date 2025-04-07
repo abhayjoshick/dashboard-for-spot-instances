@@ -92,6 +92,13 @@ You can upload `.csv` or `.xlsx` files with the following fields:
 ---
 
 ## 📊 Screenshots
+![image](https://github.com/user-attachments/assets/99d4e0ac-2adb-42ba-88d4-88d9188519ba)
+![image](https://github.com/user-attachments/assets/e0877bfe-e467-4335-b848-3b79efb9f677)
+![image](https://github.com/user-attachments/assets/1ada2430-1044-48e4-ab8b-7d6d024be178)
+![image](https://github.com/user-attachments/assets/f4d1240b-59cc-403a-9834-09f12bdbb4cc)
+![image](https://github.com/user-attachments/assets/c1f1dec7-4e44-430d-98aa-de18adf19bdb)
+
+
 
 _Add screenshots here as needed for illustration._
 
